@@ -1,0 +1,27 @@
+p{
+        font-family: Raleway;
+        
+}
+
+.phonenumber{ 
+    color: blue
+}
+
+.smallimage {
+    width: 200px;
+    height: auto; /* Maintains aspect ratio */
+}
+.subheading {
+    text-decoration: underline; 
+    font-weight: bold;
+    text-decoration: 15px
+}
+body {
+    background-color: lightgray;
+}
+.highlight {
+    background-color: purple;
+}
+.resume {
+    color: lightblue;
+}
